@@ -1,0 +1,6 @@
+{
+    "kopeechka_api": "https://kopeechka.store/?ref=27444",
+    "humanization": true,
+    "mail_domains": ["outlook.com", "gmail.com"],
+    "2fa": false
+}
