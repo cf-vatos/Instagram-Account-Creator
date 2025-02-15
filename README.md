@@ -25,5 +25,6 @@
 - **`Kopeechka API`** - Kopeechka API used for email verification
 
 # Contributor
-Made by `cf.vatos.` & `csolver.ai`
+- Discord - `cf.vatos.`
+- Discord - `csolver.ai`
 
