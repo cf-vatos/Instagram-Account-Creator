@@ -16,7 +16,7 @@
 <br/>
 
 ## Screenshot
-![picture](https://media.discordapp.net/attachments/1336804985920552984/1340396317222109297/image.png?ex=67b234d9&is=67b0e359&hm=00b26ebe742cd256b5a29ae02f1de160a41d40ce18f87d4f32794a84142c1ca7&=&format=webp&quality=lossless)
+![picture](https://nexustools.de/Assets/images/instagen.png)
 
 ## Features
 - **`Generates Accounts `** - Unflagged & No captcha solver needed
